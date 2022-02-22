@@ -57,4 +57,11 @@ if __name__ == '__main__':
 
 [![Harin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeroDeath2&custom_title=Harin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
+
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/61paeTwPhot4tXmfO9PrlO?si=cb637f61bb4b4537">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 ------
