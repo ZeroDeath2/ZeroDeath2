@@ -40,7 +40,7 @@ if __name__ == '__main__':
 <br />
 <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" />
   
 ### 👨‍💻 Languages and Tools
 
