@@ -40,12 +40,6 @@ if __name__ == '__main__':
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 
-### 👨‍💻 Languages 
-
-<br />
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Python](https://img.shields.io/pypi/pyversions/Pyth)](https://github.com/ZeroDeath2) 
 
 <br/>
 <p align="left">
