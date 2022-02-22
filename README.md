@@ -47,7 +47,6 @@ if __name__ == '__main__':
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Python](https://img.shields.io/pypi/pyversions/Pyth)](https://github.com/ZeroDeath2) 
-## My Statistics
 
 <br/>
 <p align="left">
