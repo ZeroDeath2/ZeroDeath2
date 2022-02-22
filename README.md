@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 
 
 <br/>
