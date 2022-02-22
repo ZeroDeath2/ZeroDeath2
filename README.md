@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Harin
+<div align="center">
+  ### Hi there 👋 I'm Harin
 
 <br>
 
