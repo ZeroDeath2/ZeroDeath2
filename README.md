@@ -28,7 +28,6 @@ if __name__ == '__main__':
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Portfolio: https://github.com/ZeroDeath2
 
 <a href="https://www.facebook.com/profile.php?id=100075508052920">
   <img align="left" alt="Harin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -40,8 +39,8 @@ if __name__ == '__main__':
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" />
-  
-### 👨‍💻 Languages and Tools
+<br />  
+### 👨‍💻 Languages 
 
 <br />
 
