@@ -1,9 +1,4 @@
-### Hi there 👋
-<h1 align="center">
-  <b>Harin V Chirappanath</b>
-</h1>
-
-Heya! I'm Harin, a student currently living in Kerala, India.
+### Hi there 👋 I'm Harin
 
 <br>
 
