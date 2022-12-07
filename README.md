@@ -26,32 +26,6 @@ if __name__ == '__main__':
     me = Harin()
 ```
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-
-<a href="https://www.facebook.com/profile.php?id=100075508052920">
-  <img align="left" alt="Harin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/just_harin/">
-  <img align="left" alt="Harin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-
-
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" />
-
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ZeroDeath2&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroDeath2&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-[![Harin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZeroDeath2&custom_title=Harin's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
-
-
 
 <div align="center">
   <a href="https://open.spotify.com/playlist/61paeTwPhot4tXmfO9PrlO?si=cb637f61bb4b4537">
