@@ -25,11 +25,3 @@ class Harin():
 if __name__ == '__main__':
     me = Harin()
 ```
-
-
-<div align="center">
-  <a href="https://open.spotify.com/playlist/61paeTwPhot4tXmfO9PrlO?si=cb637f61bb4b4537">
-    <img src="https://media.giphy.com/media/9Vvpnq91B0ZR8VjMwb/giphy.gif">
-  </a>
-</div>
-------
